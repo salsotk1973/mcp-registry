@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 3a5294539de4de3a91d0ee72d5487bc8b8b1fcd7
+  commit: 9f4aff72fbee143d94031b412816c42089e0d90c
   directory: src/valkey-mcp-server
 config:
   description: Configure Valkey connection
